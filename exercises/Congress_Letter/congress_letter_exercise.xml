@@ -116,6 +116,164 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml?organization_annotation_20250121175330228",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T08:53:30.228Z",
+	"dcterms:modified": "2025-01-21T08:53:30.228Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/yamamo0529",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yuka YAMAMOTO"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml?organization_annotation_20250121175330228#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml?organization_annotation_20250121175330228#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/opener/salute/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q11268",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml?date_annotation_20250121175353931",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-01-21T08:53:53.931Z",
+	"dcterms:modified": "2025-01-21T08:53:53.931Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/yamamo0529",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Yuka YAMAMOTO"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml?date_annotation_20250121175353931#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/exercises/Congress_Letter/congress_letter_exercise.xml?date_annotation_20250121175353931#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/closer[2]/dateline/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1872"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 			<projectDesc>
 				<p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -129,7 +287,7 @@
 			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
 			<opener><salute>To the Honorable the Senate and House of Representatives of the United States in
-				Congress Assembled:</salute></opener>
+				<orgName key="United States Congress" ref="http://www.wikidata.org/entity/Q11268" cert="high">Congress</orgName> Assembled:</salute></opener>
 			<opener>The undersigned, Citisens of the United States, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
 					right to vote, pray your Honorable Body to
@@ -150,7 +308,7 @@
 				Olympia Brown 
 				Susan B. Anthony 
 				Josephine S. Griffing 
-				Hartford Conn. <dateline>Dec. 1871</dateline></closer>
+				Hartford Conn. <dateline>Dec. <date when="1872" cert="high">1871</date></dateline></closer>
 		</body>
 	</text>
 </TEI>
