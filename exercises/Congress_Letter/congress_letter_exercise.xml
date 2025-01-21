@@ -48,8 +48,8 @@
 		<body>
 			<pb facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/Congress_Letter/congress_letter_image1.jpg"/>
 
-			<opener>To the Honorable the Senate and House of Representatives of the United States in
-				Congress Assembled:</opener>
+			<opener><salute>To the Honorable the Senate and House of Representatives of the United States in
+				Congress Assembled:</salute></opener>
 			<opener>The undersigned, Citisens of the United States, believing that under the present
 					Federal Constitution all women who are citisens of the United States have the
 					right to vote, pray your Honorable Body to
@@ -60,10 +60,10 @@
 				thousands of other women who are petitioning Congress to the same effect to be heard
 				upon this Memmoiral before the Senate and House at an early day in the present
 				Session.</p>
-			<p>We ask your Honorable Body to bear in mind that while men are represented on the
+			<closer>We ask your Honorable Body to bear in mind that while men are represented on the
 				floor of Congress and so may be said to be heard there, women
 				who are allowed no vote and therefore no representation cannot truly be heard except
-				as Congress shall open its doors to us in person.</p>
+				as Congress shall open its doors to us in person.</closer>
 			<closer>Elizabeth Cady
 						Stanton 
 				Isabella Beecher Hooker 
