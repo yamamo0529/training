@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="undefined"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -13,7 +12,7 @@
 				<p>Page images made available without knowledge of copyright.</p>
 			</sourceDesc>
 		</fileDesc>
-		<encodingDesc>
+		<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
 			<projectDesc>
 				<p>This encoded file was created by Diane Jakacki and made available for a Linked
 					Editing Academic Framework (LEAF) / LEAF-Writer workshop. This file is not meant
@@ -24,8 +23,7 @@
 	<text>
 		<body>
 			<div>
-				<pb n="32"
-					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
+				<pb n="32" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image1.jpg"/>
 				<head> MACAVITY: THE MYSTERY CAT </head>
 				<byline>
 					<docAuthor>T.S. Eliot</docAuthor>
@@ -44,7 +42,7 @@
 					<l>His powers of levitation would make a fakir stare, </l>
 					<l>And when you reach the scene of crime—Macavity's not there! </l>
 					<l>You may seek him in the basement, you may look up in the air— </l>
-					<l>But I tell you once and once again, Macavity's not there! </l>
+					<l>But I tell you once and once again, <emph>Macavity's not there! </emph></l>
 				</lg>
 				<lg>
 					<l>Macavity's a ginger cat, he's very tall and thin; </l>
@@ -55,8 +53,7 @@
 					<l>And when you think he's half asleep, he's always wide awake. </l>
 				</lg>
 
-				<pb n="33"
-					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image2.jpg"/>
+				<pb n="33" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image2.jpg"/>
 
 				<lg>
 					<l>Macavity, Macavity, there's no one like Macavity, </l>
@@ -92,8 +89,7 @@
 				<note>NOTE: the stanzas above are broken down into line line groups (`lg`) and
 					individual lines (`l`). Change the tagging of the lines below to match that
 					above </note>
-				<pb n="34"
-					facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image3.jpg"/>
+				<pb n="34" facs="https://raw.githubusercontent.com/LEAF-VRE/training/main/getting_started/exercises/macavity_image3.jpg"/>
 
 				<p>He always has an alibi, and one or two to spare: At whatever time the deed took
 					place-MACAVITY WASN'T / THERE! And they say that all the Cats whose wicked deeds
