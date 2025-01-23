@@ -420,7 +420,7 @@
 			<div type="notes">
 				<head>注</head>
 				<note n="1" type="scholarlyNote">The poem has a suggestion of the magical imagery of Kenneth Leslie?s By Stubborn Stars.</note>
-				<title ref="http://viaf.org/viaf/179269842" level="m">Oxf</title><note n="3" type="scholarlyNote">Sample footnote.</note>
+				<title ref="http://viaf.org/viaf/179269842" level="m">Ox</title><note n="3" type="scholarlyNote">Sample footnote.</note>
 			</div>
 			<div type="annotations">
 				<head>Annotations and Keywords</head>
@@ -433,12 +433,7 @@
 				<note type="translation">Sample translation</note>
 			</div>
 			<div type="works">
-				<head>
-					<choice><sic>
-						 Works Cited  
-						
-					</sic><corr>Bibliography</corr></choice>
-				</head>
+				<head>  </head>
 				<note>The New Monthly Magazine. Alternate Titles: The New Monthly Magazine and Universal Register; The New Monthly Magazine and Literary Journal; Colburn's New Monthly Magazine; The New Monthly Magazine and Humorist.London:H. Colburn;<orgName cert="medium" ref="http://viaf.org/viaf/151283596">Chapman and Hall</orgName>;John Bale and Sons,1814-1884.</note>
 				<note>Sample bibliographic record: <persName cert="high" type="real" ref="http://viaf.org/viaf/78272387">McLaren, Floris Clark</persName>. Glimpse. Canadian Poetry Magazine1.1(1936):23.</note>
 				<note>Sample bibliographic record: McLaren, Floris Clark. Glimpse. Canadian Poetry Magazine1.1(1936):23.Volume I: 1450-1625, Volume II: 1625-1700, Volume III: 1700-1800, Volume IV: 1800-1900, Volume V: Indexes of Titles, First Lines, Names, Repositories</note>
