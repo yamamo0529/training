@@ -394,7 +394,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?title_annotation_20190815054849409#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/note[2]/title"
+			"rdf:value": "TEI/text/body/div[2]/title"
 		}
 	},
 	"oa:hasBody": {
@@ -420,8 +420,7 @@
 			<div type="notes">
 				<head>注</head>
 				<note n="1" type="scholarlyNote">The poem has a suggestion of the magical imagery of Kenneth Leslie?s By Stubborn Stars.</note>
-				<note n="2" type="scholarlyNote">The <title ref="http://viaf.org/viaf/179269842" level="m">Oxford Dictionary of National</title></note>
-				<note n="3" type="scholarlyNote">Sample footnote.</note>
+				<title ref="http://viaf.org/viaf/179269842" level="m">Oxf</title><note n="3" type="scholarlyNote">Sample footnote.</note>
 			</div>
 			<div type="annotations">
 				<head>Annotations and Keywords</head>
