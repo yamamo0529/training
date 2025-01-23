@@ -125,86 +125,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?organization_annotation_20190815054849334",
-	"type": "oa:Annotation",
-	"dcterms:created": "2019-08-14T20:48:49.334Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/ilovan",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Mihaela Ilovan",
-		"foaf:nick": "ilovan"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?organization_annotation_20190815054849334#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?organization_annotation_20190815054849334#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/note/orgName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "org:Organization",
-		"@id": "http://viaf.org/viaf/151283596",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	},
-	"cwrc:hasCertainty": "cwrc:medium"
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?correction_annotation_20190815054849405",
 	"type": "oa:Annotation",
 	"dcterms:created": "2019-08-14T20:48:49.405Z",
@@ -250,86 +170,6 @@
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "3.6.0"
 	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?person_annotation_20190815054849407",
-	"type": "oa:Annotation",
-	"dcterms:created": "2019-08-14T20:48:49.407Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/ilovan",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Mihaela Ilovan",
-		"foaf:nick": "ilovan"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?person_annotation_20190815054849407#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/yamamo0529/training/main/五位鷺.xml?person_annotation_20190815054849407#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/note[2]/persName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/78272387",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
-	},
-	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
       
@@ -419,8 +259,7 @@
 			</div>
 			<div type="notes">
 				<head>注</head>
-				<note n="1" type="scholarlyNote">The poem has a suggestion of the magical imagery of Kenneth Leslie?s By Stubborn Stars.</note>
-				<title ref="http://viaf.org/viaf/179269842" level="m">Ox</title><note n="3" type="scholarlyNote">Sample footnote.</note>
+				<title ref="http://viaf.org/viaf/179269842" level="m"/><note n="3" type="scholarlyNote">Sample footnote.</note>
 			</div>
 			<div type="annotations">
 				<head>Annotations and Keywords</head>
@@ -434,9 +273,7 @@
 			</div>
 			<div type="works">
 				<head>  </head>
-				<note>The New Monthly Magazine. Alternate Titles: The New Monthly Magazine and Universal Register; The New Monthly Magazine and Literary Journal; Colburn's New Monthly Magazine; The New Monthly Magazine and Humorist.London:H. Colburn;<orgName cert="medium" ref="http://viaf.org/viaf/151283596">Chapman and Hall</orgName>;John Bale and Sons,1814-1884.</note>
-				<note>Sample bibliographic record: <persName cert="high" type="real" ref="http://viaf.org/viaf/78272387">McLaren, Floris Clark</persName>. Glimpse. Canadian Poetry Magazine1.1(1936):23.</note>
-				<note>Sample bibliographic record: McLaren, Floris Clark. Glimpse. Canadian Poetry Magazine1.1(1936):23.Volume I: 1450-1625, Volume II: 1625-1700, Volume III: 1700-1800, Volume IV: 1800-1900, Volume V: Indexes of Titles, First Lines, Names, Repositories</note>
+				<note/>
 			</div>
 		</body>
 	</text>
